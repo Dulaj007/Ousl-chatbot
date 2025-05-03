@@ -1,3 +1,4 @@
+# rule-based + machine learning hybrid chatbot
 # Step 1: Import necessary libraries
 import random
 import nltk
